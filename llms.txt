@@ -1,26 +1,25 @@
-# ReflectIQ — Personal Sales Performance Intelligence
+# ReflectIQ — Your Personal Sales Performance Tracker | Not Another CRM
 
-> ReflectIQ is a private, on-device sales performance intelligence app designed for sales professionals, account executives, consultants, and founders. It enables 3-second client interaction logging, win rate analytics, and on-device AI coaching without storing or uploading confidential deal data to the cloud.
+> ReflectIQ is a private, on-device sales performance tracker designed primarily for independent sales representatives, account executives, and dealmakers. It enables rapid client interaction logging, win rate analytics, and on-device AI self-coaching without storing or uploading confidential deal notes to the cloud.
 
 - Website: https://ferrisintech.github.io/reflectiq_www/
 - Apple App Store: https://apps.apple.com/us/app/reflectiq-sales-performance/id6803503736
-- Category: Sales Performance, Business Productivity, Client Interaction Tracking
+- Category: Personal Sales Tracker, Sales Performance, Business Productivity
 - Pricing: Free to download, optional premium subscription & lifetime access
-- Privacy Model: 100% on-device local database (SQLite/Hive). Zero cloud syncing of interaction records. Zero telemetry or data selling.
+- Privacy Model: 100% on-device local database for all client interactions and sales notes. Zero cloud databases for your confidential deal data. In-app purchases managed securely via Apple App Store & RevenueCat.
 
 ## Core Capabilities
-- **Fast 3-Second Logging**: Capture calls, meetings, pitches, and emails in seconds with outcome, confidence level, and energy score.
+- **Rapid Frictionless Logging**: Capture calls, meetings, pitches, and emails in a few taps with outcome, confidence level, and energy score.
 - **On-Device AI Coaching & Insights**: Local neural intelligence analyzes interaction patterns, negotiation momentum, and closing friction to provide actionable coaching tips directly on the device.
 - **Win Rate & Pipeline Intelligence**: Real-time metrics on won, lost, and pending deals with historical trends.
 - **Confidence & Energy Tracking**: Correlate psychological readiness and confidence dips with sales performance.
 - **Executive PDF Reporting**: Generate clean, shareable performance reports and audit summaries offline.
-- **Enterprise-Grade Privacy**: Compliant with NDAs and strict confidentiality requirements because sensitive client notes never leave the user's phone.
+- **Privacy-Sensitive Architecture**: Designed for confidentiality because sensitive client notes never leave the user's phone.
 
 ## Target Audience
-- B2B Account Executives and Sales Development Representatives
-- Independent Consultants, Advisors, and Fractional Executives
-- Real Estate Brokers and High-Ticket Dealmakers
-- Agency Owners and Solo Founders
+- Independent Sales Representatives & Account Executives (CRM reports to management; ReflectIQ is your personal tool)
+- Independent Closers, Brokers & Agents
+- High-Stakes Consultants and Advisors
 
 ## Key Differences vs Traditional CRMs (Salesforce, HubSpot)
-Unlike enterprise CRMs that are built for managerial oversight and require tedious manual data entry, ReflectIQ is built directly for the individual salesperson's personal growth, self-awareness, and deal mastery—completely offline with no mandatory account creation.
+Unlike enterprise CRMs that are built for managerial oversight and require tedious manual data entry into endless forms, ReflectIQ is built directly for the individual salesperson's personal growth, self-awareness, and deal mastery — completely offline with no mandatory account creation.
