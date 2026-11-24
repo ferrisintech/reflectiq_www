@@ -4,31 +4,43 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ferrisintech.github.io/reflectiq_www/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://ferrisintech.github.io/reflectiq_www/assets/01_dashboard.png</image:loc>
-      <image:title>ReflectIQ Sales Performance Dashboard and Win Rate Tracking</image:title>
+      <image:loc>https://ferrisintech.github.io/reflectiq_www/assets/01_win_rate.png</image:loc>
+      <image:title>ReflectIQ Personal Sales Win Rate Dashboard</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://ferrisintech.github.io/reflectiq_www/assets/02_ai_insights.png</image:loc>
-      <image:title>ReflectIQ On-Device AI Sales Coaching Insights</image:title>
+      <image:loc>https://ferrisintech.github.io/reflectiq_www/assets/02_log_call.png</image:loc>
+      <image:title>ReflectIQ Rapid Call Logging in Under 5 Seconds</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://ferrisintech.github.io/reflectiq_www/assets/03_new_interaction.png</image:loc>
-      <image:title>ReflectIQ Fast Client Interaction Logging</image:title>
+      <image:loc>https://ferrisintech.github.io/reflectiq_www/assets/03_trends.png</image:loc>
+      <image:title>ReflectIQ Sales Performance Trends and Conversion Analytics</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ferrisintech.github.io/reflectiq_www/assets/04_ai_coach.png</image:loc>
+      <image:title>ReflectIQ On-Device AI Personal Sales Coach</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ferrisintech.github.io/reflectiq_www/assets/05_privacy.png</image:loc>
+      <image:title>ReflectIQ 100% On-Device Client Data Privacy</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ferrisintech.github.io/reflectiq_www/assets/06_pdf_report.png</image:loc>
+      <image:title>ReflectIQ Executive Deal Performance PDF Report</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://ferrisintech.github.io/reflectiq_www/privacy.html</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ferrisintech.github.io/reflectiq_www/terms.html</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
